@@ -1,6 +1,6 @@
 https://willianfernandesvieira.github.io/LabJavaScript/LabJavaScript/
 # LabJavaScript
-Esse site foi desenvolvido para um simples teste de java script em um projeto simples na faculdade.
+Esse site foi desenvolvido para um simples teste de java script em um projeto na faculdade.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
@@ -9,3 +9,4 @@ Esse site foi desenvolvido para um simples teste de java script em um projeto si
 * JavaScript
 * HTML
 * CSS
+* JSON
